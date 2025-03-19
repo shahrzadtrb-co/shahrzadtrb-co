@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahrzadtrb-co
-- 👀 I’m interested in coding in general for now I'm a Laravel developer who knows I might become a data scientist or an AI expert in the future 
-- 🌱 I have experience in fullstack web development using Laravel 8 and frontend css frameworks such as tailwindss , bootstrap and vue js
+- 👀 with a background in backend development in php now I', looking forward to improve my skills in javascript , react js , cloud develpment and blockchain development
+- 🌱 I also have frontend develpment technologies such as HTML and css frameworks such as tailwindss , bootstrap and vue js
 - 📫 How to reach me :
 -  my linkdin shahrzad-torabi   / my whatsapp : +4915783504892
 - 
