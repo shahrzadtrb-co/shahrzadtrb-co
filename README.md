@@ -3,7 +3,6 @@
 - 🌱 I also have experience working with frontend develpment technologies such as HTML and css frameworks such as tailwindss , bootstrap and vue js
 - 📫 How to reach me :
 -  my linkdin shahrzad-torabi   / my whatsapp : +4915783504892
-- 
 
 
 <!---
