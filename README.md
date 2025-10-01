@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahrzadtrb-co
--  with a fullstack background in backend development with laravel php now I`m  looking forward to improve my skills in javascript , react js , cloud develpment and blockchain development as I am learning daily!
+-  with a fullstack background in web development with laravel php now I`m  looking forward to improve my skills in javascript , react js , cloud develpment and blockchain development as I am learning daily!
 - 🌱 I also have experience working with python and data visulaisation 
 - 📫 How to reach me :
 -  my linkdin shahrzad-torabi   / my whatsapp : +4915783504892
