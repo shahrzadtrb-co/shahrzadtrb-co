@@ -1,8 +1,8 @@
 - 👋 Hi, I’m shahrzad
--  with a fullstack background in web development with laravel php now I’m  looking forward to improve my skills in javascript , react js , cloud develpment and blockchain development as I am learning daily!
-- 🌱 I also have experience working with python and data visulaisation 
+-  with a fullstack background in web development with laravel php now I’m thriving to improve my skills in react.js , cloud develpment and blockchain development as I am learning daily!
+- 🌱 I also have experience working with python and data visualisation
 - 📫 How to reach me :
--  my linkdin shahrzad-torabi   / my whatsapp : +4915783504892
+-  my linkedin: shahrzad-torabi   / my whatsapp : +4915783504892
 - looking forward to working on projects together :))
 
 <!---
