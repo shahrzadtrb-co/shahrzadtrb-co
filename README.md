@@ -14,4 +14,6 @@ M.Sc. Computer Science student at the University of Passau. I build backend serv
 **Stack:** Python · SQL · Pandas · Docker · Linux · Git · Playwright · pytest · REST APIs · Laravel/PHP · JavaScript · Vue.js
 
 Open to working-student roles now and full-time roles after graduation, in software, data and AI.
+
+email: shahrzadtorabi00@gmail.com
 [LinkedIn](https://www.linkedin.com/in/shahrzad-torabi)
